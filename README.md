@@ -73,7 +73,4 @@ administration and operational tasks.
 - Azure Monitoring
 - Cloud Infrastructure Reliability
 
-## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Naukri: [Your Naukri Profile]
